@@ -59,9 +59,3 @@ features:
     enable: true
   privacy_pack:
     enable: false
-
-extensions:
-  decap_cms:
-    branch: main
-    # publish_mode: editorial_workflow
-    local_backend: true
